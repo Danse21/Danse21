@@ -1,4 +1,4 @@
-# Welcome to my gitHub page, my name is Damasus Okeke!
+## Welcome to my gitHub page, my name is Damasus Okeke!
 
 **Profile**
 
