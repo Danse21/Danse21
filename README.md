@@ -1,6 +1,6 @@
-## Welcome to my gitHub page, my name is Damasus Okeke!
+# Welcome to my gitHub page, my name is Damasus Okeke!
 
-## Profile
+**Profile**
 
 PhD in biochemistry & structural biology with seven years of research experience. Experienced in wet lab and data-driven research with a strong focus on optimization and troubleshooting of experiments as well as collaboration within interdisciplinary projects. Interested in backend development, data analysis, and integrated AI solutions.
 
