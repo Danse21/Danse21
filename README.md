@@ -9,3 +9,4 @@ Currently studying Software Development with AI focus at NBI/Handelsakademin, wh
 Seeking a LIA (internship) opportunity where I can leverage my analytical background and contribute to building data-driven applications.
 
 - Fluent in English with working proficiency in Swedish
+- Tech Stack: C#/.NET, Python, REST APIs, FastAPI, SQL, React, Git/GitHub, Testing, CI/CD
