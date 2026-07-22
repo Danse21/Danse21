@@ -2,11 +2,13 @@
 
 **Profile**
 
-PhD in biochemistry & structural biology with seven years of research experience. Experienced in wet lab and data-driven research with a strong focus on optimization and troubleshooting of experiments as well as collaboration within interdisciplinary projects. Interested in backend development, data analysis, and integrated AI solutions.
+PhD-trained biochemist with more than seven years of research experience. Experienced in experimental laboratory and data-driven research with a strong focus on optimization and troubleshooting of experiments as well as collaboration within interdisciplinary projects.
+
+Interested in backend development, data analysis, and AI-integrated applications.
 
 Currently studying Software Development with AI focus at NBI/Handelsakademin, where I am building practical experience in C#/.NET, Python, AI/ML, SQL, React, REST APIs, and FastAPI  through hands-on project work.
 
 Seeking a LIA (internship) opportunity where I can leverage my analytical background and contribute to building data-driven applications.
 
 - Fluent in English with working proficiency in Swedish
-- Tech Stack: C#/.NET, Python, REST APIs, FastAPI, SQL, React, Git/GitHub, Testing, CI/CD
+- Tech Stack: C#/.NET, Python, REST APIs, FastAPI, SQL, Streamlit, React, Git/GitHub, Testing, CI/CD
