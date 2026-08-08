@@ -2,7 +2,7 @@
 
 **About Me**
 
-PhD-trained biochemist with over 7 years experience in scientific research. Experienced in designing data-driven experiments, process optimization and troubleshooting as well as technical documentation and collaboration across interdisciplinary teams.
+PhD-trained biochemist with 7+ years experience in scientific research. Experienced in designing complex data-driven experiments, process optimization and troubleshooting as well as technical documentation and collaboration in a cross-functional team.
 
 Passionate about backend development, data analysis, and building AI-integrated applications.
 
@@ -11,4 +11,4 @@ Currently studying **Software Development with AI focus** at NBI/Handelsakademin
 Seeking a **LIA (internship) opportunity** where I can leverage my analytical problem-solving and software skills to build intelligent, data-driven applications.
 
 - Languages: English (Fluent) | Swedish (Working proficiency)
-- Tech Stack: C#/.NET, Python (FastAPI), REST APIs, SQL, Streamlit, TypeScript, React, LLM/RAG, Git/GitHub, Testing, CI/CD, Docker, AWS
+- Tech Stack: C#/.NET, Python (FastAPI), REST APIs, SQL, TypeScript, React, LLM/RAG, Streamlit, Git/GitHub, Testing, CI/CD, Docker, AWS
