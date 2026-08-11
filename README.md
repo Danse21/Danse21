@@ -4,7 +4,7 @@
 
 PhD-trained biochemist with 7+ years experience in scientific research. Experienced in designing complex data-driven experiments, process optimization and troubleshooting as well as technical documentation and collaboration in a cross-functional team.
 
-Passionate about backend development, data analysis, and building AI-integrated applications.
+Passionate about backend development, building data processing pipelines and AI-integrated applications.
 
 Currently studying **Software Development with AI focus** at NBI/Handelsakademin, where I am building practical experience in C#/.NET, Python (FastAPI), SQL, TypeScript, React, REST APIs, and AI/ML integrations  through hands-on project.
 
