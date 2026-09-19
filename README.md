@@ -2,13 +2,18 @@
 
 **About Me**
 
-PhD-trained biochemist with 7+ years experience in scientific research. Experienced in designing complex data-driven experiments, process optimization and troubleshooting as well as technical documentation and collaboration in a cross-functional team.
+Results-driven PhD-trained biochemist with 7+ years experience in scientific research. Experienced in designing complex data-driven experiments, analyzing large scale biological (NMR & cryo-EM) data, process optimization and troubleshooting as well as technical documentation and collaboration in cross-functional team.
 
-Passionate about backend development, building data processing pipelines and AI-integrated applications.
+Applying those analytical and problem-solving skills to building AI-driven systems and data pipelines for smart and innovative data-driven solutions.
 
-Currently studying **Software Development with AI focus** at NBI/Handelsakademin, where I am building practical experience in C#/.NET, Python (FastAPI), SQL, TypeScript, React, REST APIs, and AI/ML integrations  through hands-on project.
+Technical Skills and Tools:
+- Programming: Python, C#, SQL, TypeScript
+- AI & Data Science:  Pandas, NumPy, Matplotlib, predictive modeling (scikit-learn), LLMs, RAG, LangChain
+- Backend & API: REST APIs, FastAPI, .NET, Minimal API
+- Frontend: React, Streamlit
+- Testing: Pytest, xUnit, Postman
+- Tools: Docker, CI/CD, AWS, Neon, Render, VS code, Linux CLI, Git/GitHub, Agile (Scrum)
+- Computational Biology: NCBI BLAST, UniProt, AlphaFold, PyMol, ChimeraX, NMRFAM-SPARKY, cryoSPARC
+- Wet lab: Experimental design, recombinant DNA cloning, protein expression och purification
 
-Seeking a **LIA (internship) opportunity** where I can leverage my analytical problem-solving and software skills to build intelligent, data-driven applications.
-
-- Languages: English (Fluent) | Swedish (Working proficiency)
-- Tech Stack: C#/.NET, Python (FastAPI), REST APIs, SQL, TypeScript, React, LLM/RAG, Streamlit, Git/GitHub, Testing, CI/CD, Docker, AWS
+Languages: English (Fluent) | Swedish (Working proficiency) | Igbo (Native)
