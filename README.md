@@ -2,7 +2,7 @@
 
 **About Me**
 
-Results-driven PhD-trained Structural Biologist with 7+ years experience in scientific research. Experienced in designing complex data-driven experiments, analyzing large-scale biological data (NMR & cryo-EM), process optimization and troubleshooting as well as technical documentation and collaboration in cross-functional team.
+Results-driven Software & AI Developer with a PhD background in Structural biology and 7+ years experience in scientific research. Experienced in designing complex data-driven experiments, analyzing large-scale biological data (NMR & cryo-EM), process optimization and troubleshooting as well as technical documentation and collaboration in cross-functional team.
 
 Passionate about leveraging the analytical and problem-solving skills to building AI-driven systems and scalable data pipelines.
 
