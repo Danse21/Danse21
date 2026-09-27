@@ -2,11 +2,11 @@
 
 **About Me**
 
-Results-driven PhD-trained biochemist with 7+ years experience in scientific research. Experienced in designing complex data-driven experiments, analyzing large scale biological (NMR & cryo-EM) data, process optimization and troubleshooting as well as technical documentation and collaboration in cross-functional team.
+Results-driven PhD-trained Structural Biologist with 7+ years experience in scientific research. Experienced in designing complex data-driven experiments, analyzing large-scale biological data (NMR & cryo-EM), process optimization and troubleshooting as well as technical documentation and collaboration in cross-functional team.
 
-Applying those analytical and problem-solving skills to building AI-driven systems and data pipelines for smart and innovative data-driven solutions.
+Passionate about leveraging the analytical and problem-solving skills to building AI-driven systems and scalable data pipelines.
 
-Technical Skills and Tools:
+Technical Skills and Technologies:
 - Programming: Python, C#, SQL, TypeScript
 - AI & Data Science:  Pandas, NumPy, Matplotlib, predictive modeling (scikit-learn), LLMs, RAG, LangChain
 - Backend & API: REST APIs, FastAPI, .NET, Minimal API
